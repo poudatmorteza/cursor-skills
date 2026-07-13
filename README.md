@@ -17,6 +17,7 @@ Book-distilled [Cursor Agent Skills](https://cursor.com/docs/context/skills) for
 | [web-usability](./web-usability/) | Steve Krug — *Don't Make Me Think* (3rd ed.) |
 | [web-application](./web-application/) | Combined full-stack skill (all four web books above) |
 | [karpathy-guidelines](./karpathy-guidelines/) | Andrej Karpathy — LLM coding behavioral guidelines ([source](https://github.com/multica-ai/andrej-karpathy-skills)) |
+| [ui-ux-pro-max](./ui-ux-pro-max/) | UI/UX design intelligence — styles, palettes, typography, UX guidelines, stack-specific rules ([source](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill), MIT) |
 
 ## Install
 

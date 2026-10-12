@@ -2,7 +2,6 @@
 
 Book-distilled [Cursor Agent Skills](https://cursor.com/docs/context/skills) for software development — coding standards, architecture, and full-stack web work.
 
-**Not included:** trading/forex skills (kept private locally).
 
 ## Skills
 
